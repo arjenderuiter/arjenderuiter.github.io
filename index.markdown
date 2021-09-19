@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Test text on home page
