@@ -30,7 +30,7 @@ twitter_username: arjenderuiter
 github_username:  arjenderuiter
 
 # Build settings
-theme: minima
+theme: minimal
 plugins:
   - jekyll-feed
 
