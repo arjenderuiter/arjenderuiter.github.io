@@ -30,8 +30,7 @@ twitter_username: arjenderuiter
 github_username:  arjenderuiter
 
 # Build settings
-# theme: minimal
-remote_theme: pages-themes/minimal
+theme: minimal
 plugins:
   - jekyll-feed
 
