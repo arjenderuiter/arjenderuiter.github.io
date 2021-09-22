@@ -21,13 +21,13 @@
 title: Arjen de Ruiter
 email: arjen@druitr.nl
 company_name: De Ruiter Software Consulting
-kvk_id: aaa
-vat_id: bbb
+kvk_info: KvK nummer 72111712
+vat_info: BTW-identificatieummer NL001632950B90
 description: 
-  "Building and scaling technology organisations
+  Building and scaling technology organisations
   De Ruiter Software Consulting
   KvK nummer 72111712
-  BTW-identificatieummer NL001632950B90"
+  BTW-identificatieummer NL001632950B90
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: arjenderuiter
