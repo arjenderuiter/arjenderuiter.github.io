@@ -18,9 +18,9 @@
       {%- endif %}
 -->
       
-        <p>{{ site.company_name | escape }}</p>
-        <p>{{ site.kvk_info | escape }}</p>
-        <p>{{ site.vat_info | escape }}</p>
+        {{ site.company_name | escape }}
+        {{ site.kvk_info | escape }}
+        {{ site.vat_info | escape }}
 
 <!--        <p class="feed-subscribe">
           <a href="{{ 'feed.xml' | relative_url }}">
@@ -32,7 +32,8 @@
 -->
       </div>
       <div class="footer-col">
-        <p>{{ site.description | escape }}</p>
+     <!--   <p>{{ site.description | escape }}</p>
+    -->
       </div>
     </div>
 
