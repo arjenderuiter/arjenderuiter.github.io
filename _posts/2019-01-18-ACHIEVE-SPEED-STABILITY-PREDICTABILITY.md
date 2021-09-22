@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Achieve speed, stability and predictability"
+date:   2019-01-18
+categories: featured strategy
+---
+
+
 My solutions to speed, predictability & stability at scale, are based on theoretic research combined with many years of experience. The theory is about scalability and economies of scale and leads to 3 principles. The experience comes from many years of building e-commerce and SaaS companies with focus on 5 domains.
 
 **Use 3 simple principles**
