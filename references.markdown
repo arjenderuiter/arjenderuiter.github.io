@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Companies I worked for
-permalink: /references/
+title: Stories
+permalink: /stories/
 ---
 
 Companies I worked for
