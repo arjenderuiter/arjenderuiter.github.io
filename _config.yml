@@ -18,13 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Personal and companby information
+title: Arjen de Ruiter
 email: arjen@druitr.nl
-description: 
-  Building and scaling technology organisations
-  
-  De Ruiter Software Consulting
-  KvK nummer 72111712
+description: >- # this means to ignore newlines until "baseurl:"
+  Building and scaling technology organisations\s\s
+  De Ruiter Software Consulting\s\s
+  KvK nummer 72111712\s\s
   BTW-identificatieummer NL001632950B90
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
