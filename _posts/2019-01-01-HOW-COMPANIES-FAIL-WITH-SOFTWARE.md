@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "How companies fail with software"
+date:   2019-01-01
+categories: featured strategy
+---
+
 Today every company runs on software. So whatever company you work for, software is everywhere. Whether the users of your software are customers or internal users, they all have the same fundamental needs:
 - they want software development to be fast
 - they want delivery to be predictable
