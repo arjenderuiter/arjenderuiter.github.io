@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Arjen de Ruiter
+title: Personal and companby information
 email: arjen@druitr.nl
-description: >- # this means to ignore newlines until "baseurl:"
+description: 
   Building and scaling technology organisations
   
   De Ruiter Software Consulting
