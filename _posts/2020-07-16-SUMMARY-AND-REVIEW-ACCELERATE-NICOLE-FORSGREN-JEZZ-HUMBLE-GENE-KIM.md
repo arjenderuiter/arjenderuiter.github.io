@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Book summary and review of Accelerate"
+date:   2020-07-16
+categories: book summary accelerate
+---
+
+
 Summary and review of 'Accelerate' by Nicole Forsgren PhD, Jezz Humble and Gene Kim [as published on Medium](https://medium.com/sendcloud-engineering/summary-and-review-of-accelerate-by-nicole-forsgren-phd-jez-humble-and-gene-kim-3817eee76986)
 
 **Overview**
