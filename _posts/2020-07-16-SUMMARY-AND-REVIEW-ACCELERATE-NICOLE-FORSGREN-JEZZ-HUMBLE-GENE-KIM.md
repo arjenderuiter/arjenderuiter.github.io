@@ -113,12 +113,12 @@ _The importance of a generative culture_
 <br>
 After the four key metrics are explained, the authors come to the point that the successful use of metrics depends heavily on the culture in an organisation. To explain different types of culture, they use Westrum’s typology for organisational cultures. They argue that in organisations based on power (pathological) or rules (bureaucratic), measuring is often a way of controlling and that people are therefore going to hide and adapt information. This is in contrast to a culture focused on joint performance (generative) where there is more transparency, a better flow of information, more learning from mistakes, etc. The four metrics would therefore be more powerful in the latter culture, the authors argue. (Westrum, 2004)
 
-accelerate-pic2.png
+![accelerate-pic2](https://user-images.githubusercontent.com/5676977/134814436-83857950-c984-40d7-b423-ddf1f2cfc834.png)
 Figure 2: organisational culture influences the performance of the software organisation and of the organisation in general
 
 Later in the book they describe that ways of working in a software organisation also influence culture (i.e. the other way around). I myself have experienced this in organisations where I have worked, observing that IT departments influence the other departments with their way of working. For me, this finding in the book is therefore a confirmation of what I have seen in practice. At the end of this summary I come back to this point as it is a nice way to slowly introduce a culture change: not from management, but from the way of working in the teams.
 
-accelerate-pic3.png
+![accelerate-pic3](https://user-images.githubusercontent.com/5676977/134814439-1892e6e2-e9b0-4a20-93b8-7141350b3de5.png)
 Figure 3: software development practices influence culture
 
 Following the key metrics and explanation of their synergy with generative culture, the book moves to the more concrete part, namely the practices that are proven to lead to higher performance. These practices are examined and described in the 5 chapters listed earlier and summarised below.
@@ -165,7 +165,7 @@ This is also the point that the authors make and underpin with research: organis
 
 The capabilities summarised in previous sections all have a proven impact on the performance of the software organisation. Alongside this, the performance of the software organisation affects the overall organisation. In addition, during their research, the authors discovered other connections, such as the influence of practices on culture, burnout, identity, etc. You can see how these relationships intertwine in the image below.
 
-accelerate-pic4.png
+![accelerate-pic4](https://user-images.githubusercontent.com/5676977/134814441-35853f10-ad9a-4dc3-929d-b74ffa729099.png)
 Figure 4: an overview of all capabilities and the influence they have
 
 **My opinion on the book**
@@ -176,7 +176,7 @@ The book hardly answers these questions and although you know what to do after r
 
 An encouraging point in this regard — according to the research, the practices also influence the culture, so, for example, if you start with small steps in CD, you are also initiating a culture change, which in turn drives the adoption of successful practices.
 
-accelerate-pic5.png
+![accelerate-pic5](https://user-images.githubusercontent.com/5676977/134814443-d0d2b098-e426-4008-a46b-073698db453a.png)
 Figure 5: if your way of working can influence the culture, then you can start small with a big change
 
 I can only echo the advice described in the book — start small by planting a seed today, and in two years you will have a tree.
