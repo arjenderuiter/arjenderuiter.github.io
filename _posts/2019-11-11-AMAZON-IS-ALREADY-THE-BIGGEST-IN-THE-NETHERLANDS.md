@@ -10,7 +10,7 @@ Regelmatig worden omzetcijfers van de grootste webwinkels in Nederland gedeeld. 
 Ik heb daarom de omzet van de grootste webwinkels in Nederland verdeeld over de platformen waarop zij runnen om te zien waar het geld écht verdient wordt: Amazon met Amazon Web Services (AWS), Google met Google Cloud Platform (GCP) en Microsoft met Azure. Dit geeft een overzicht van marktaandelen in de Nederlandse e-commerce op technisch platform gebied. Dat levert het volgende beeld op obv de top 6 in de Twinkle100:
 
 ![Cloud+providers+marketshare](https://user-images.githubusercontent.com/5676977/134803821-c2d46072-e196-4ca4-846a-93dbf1ca4e29.jpg)
-Afbeelding: cloud providers marketshare
+_Afbeelding: cloud providers marketshare_
 Zie de tabel onderaan het artikel voor details per webwinkel.
 
 Amazon is dus ruimschoots de grootste platform-provider in de Nederlandse e-commerce markt in termen van omzet die via hun platform vloeit.
@@ -22,7 +22,8 @@ Daarnaast kan je stellen dat een deel van het bezoek van Nederlandse webwinkels 
 Als je meer partijen dan de top 6 betrekt, dan verandert het beeld niet enorm: Jumbo doet 265 miljoen omzet op een platform dat bij AWS draait, H&M heeft 215 miljoen omzet via haar systemen die bij Azure draaien.
 
 ![Cloud+provider+per+e-commerce+bedrijf](https://user-images.githubusercontent.com/5676977/134803891-ce58a814-4bb6-4294-9fb5-3b646266f7d0.png)
-Cloud provider per e-commerce bedrijf
+_Cloud provider per e-commerce bedrijf_
+
 Mijn gegevens zullen niet perfect zijn, maar het geeft een redelijk goed beeld van wie de grootste omzetstromen bedient in de Nederlandse online wereld.
 
 [Dit artikel is oorspronkelijk gepost op LinkedIn]: [https://www.linkedin.com/pulse/3-cloud-providers-doen-goede-zaken-bij-nederlandse-arjen-de-ruiter/]
