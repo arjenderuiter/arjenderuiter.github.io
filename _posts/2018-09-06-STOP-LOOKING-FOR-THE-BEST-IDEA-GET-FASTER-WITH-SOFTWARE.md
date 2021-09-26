@@ -5,7 +5,7 @@ date:   2019-09-06
 categories: featured strategy
 ---
 
-_Achmea is een softwarebedrijf dat polissen verkoopt. Bol.com en Coolblue zijn softwarebedrijven die heel veel producten verkopen. ING is een softwarebedrijf met een banklicentie. Albert Heijn is een softwarebedrijf dat je boodschappen levert. Jouw bedrijf is een softwarebedrijf dat <vul hier zelf in>. Hieronder staan 6 eigenschappen van bedrijven die succes hebben, omdat ze begrijpen dat ze een softwarebedrijf zijn._
+*Achmea is een softwarebedrijf dat polissen verkoopt. Bol.com en Coolblue zijn softwarebedrijven die heel veel producten verkopen. ING is een softwarebedrijf met een banklicentie. Albert Heijn is een softwarebedrijf dat je boodschappen levert. Jouw bedrijf is een softwarebedrijf dat -vul zelf in-. Hieronder staan 6 eigenschappen van bedrijven die succes hebben, omdat ze begrijpen dat ze een softwarebedrijf zijn.*
 
 Tegenwoordig win je niet meer door als eerste te zijn. Je wint ook niet meer met het beste idee. Als je namelijk een briljant product ontwikkelt, of een geweldige dienst levert, dan zit de concurrentie klaar om het direct te stelen. Dat komt omdat tegenwoordig al die producten en diensten software-gedreven zijn. Software is relatief makkelijk na te maken en goedkoop te runnen en daarom is de winnaar niet degene die als eerste is of het beste idee heeft, maar de winnaar is degene die continue het beste problemen kan oplossen.
 
