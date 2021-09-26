@@ -9,7 +9,7 @@ Regelmatig worden omzetcijfers van de grootste webwinkels in Nederland gedeeld. 
 
 Ik heb daarom de omzet van de grootste webwinkels in Nederland verdeeld over de platformen waarop zij runnen om te zien waar het geld écht verdient wordt: Amazon met Amazon Web Services (AWS), Google met Google Cloud Platform (GCP) en Microsoft met Azure. Dit geeft een overzicht van marktaandelen in de Nederlandse e-commerce op technisch platform gebied. Dat levert het volgende beeld op obv de top 6 in de Twinkle100:
 
-![cloud providers marketshare](_blob/Cloud+providers+marketshare.jpg)
+![Cloud+providers+marketshare](https://user-images.githubusercontent.com/5676977/134803821-c2d46072-e196-4ca4-846a-93dbf1ca4e29.jpg)
 Afbeelding: cloud providers marketshare
 Zie de tabel onderaan het artikel voor details per webwinkel.
 
