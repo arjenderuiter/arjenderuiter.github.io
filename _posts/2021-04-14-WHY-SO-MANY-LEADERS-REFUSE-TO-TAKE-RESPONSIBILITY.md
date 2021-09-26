@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Why so many leaders refuse to take responsibility and do not help their organisation at all"
+date:   2021-04-016
+categories: leadership summary lencioni
+---
 
 
 **Summary and review of 'The Motive' by Patrick Lencioni as [published on LinkedIn](https://www.linkedin.com/pulse/why-so-many-leaders-refuse-take-responsibility-do-help-de-ruiter/?trackingId=Aowaau2dQdun9I59PP1zrQ%3D%3D)**
