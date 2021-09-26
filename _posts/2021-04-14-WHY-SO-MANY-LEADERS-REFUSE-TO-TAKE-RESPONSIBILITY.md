@@ -24,6 +24,7 @@ Both companies of Shay and Liam are almost identical: same product, same kind of
 
 Lencioni states that there are hardly people who are responsible-focused only. Although they want to help people and put the organisation first, they also value a decent reward for the impact they make. The emphasis for them however is on taking responsibility as shown in this picture: 
 
+![Motivation+for+taking+the+lead](https://user-images.githubusercontent.com/5676977/134813347-858e7e62-ae6f-45de-bc82-3d8d482f5dda.jpeg)
 
 ***Review*** 
 This book is suitable for people who want to develop as a leader, because it helps you to see if you have the right motive. If not, you will not help your company and the people with it. I also think it's suitable for people who are already in a management position, because it gives insight into why competitors might do better with exactly the same conditions: that's you as a leader in the first place. 
