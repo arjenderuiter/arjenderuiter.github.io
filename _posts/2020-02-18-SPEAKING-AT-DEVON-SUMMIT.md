@@ -8,7 +8,8 @@ categories: strategy conference
 This is the abstract of my talk at Devon Summit 2020 in Utrecht, The Netherlands. 
 Sign up for the event [here](https://www.devonsummit.com/)
 
-**3 proven principles for speed and stability at scale**</br>
+**3 proven principles for speed and stability at scale**
+</br>
 You as an IT specialist know what your customers want: they want solutions fast and they want them to be available all the time.</br>
 Speed & stability is what you need to offer.</br>
 Doing one of them is easy.</br>
