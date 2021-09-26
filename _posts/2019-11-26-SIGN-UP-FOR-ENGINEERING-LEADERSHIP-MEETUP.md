@@ -18,3 +18,4 @@ Location: Kramp Hub office at Jaarbeurs Innovation Mile in Beatrixgebouw, Utrech
 [Join the meetup and sign up here]: [https://www.meetup.com/Engineer-to-Tech-Lead/] 
 There you also have a preview on other upcoming talk by Iris Zonneveldt of Treams and Tim Bakker of bol.com 
 
+![Meetup+Engineer+to+Tech+Lead](https://user-images.githubusercontent.com/5676977/134804756-104531e8-ca87-4b5d-a703-634629b8cbf7.jpeg)
