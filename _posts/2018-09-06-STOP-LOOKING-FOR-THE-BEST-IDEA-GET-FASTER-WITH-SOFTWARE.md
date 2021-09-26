@@ -13,8 +13,9 @@ De winnaars die hebben een zeer goede software of IT organisatie die hen een con
 
 Hoge snelheid in ontwikkeling combineren met stabiliteit van die software is een uitdaging voor veel organisaties. Als je snel ontwikkelt, dan gaat dat vaak ten koste van kwaliteit en dat uit zich in slechte beschikbaarheid. Andersom kan je beschikbaarheid makkelijk verhogen door weinig te veranderen, maar dan heb je weer geen snelheid.
 
-Snelheid en stabiliteit
-Succesvolle bedrijven in grote web-scale omgevingen, waar iedere seconde telt, kunnen als geen ander snelheid en stabiliteit beide bereiken. In hoofdlijnen doen zij dit als volgt:
+![Snelheid+en+stabiliteit](https://user-images.githubusercontent.com/5676977/134804341-e445bc02-80b5-4cff-b00e-1a7584d726fd.jpeg))
+
+  Succesvolle bedrijven in grote web-scale omgevingen, waar iedere seconde telt, kunnen als geen ander snelheid en stabiliteit beide bereiken. In hoofdlijnen doen zij dit als volgt:
   1. Ze organiseren software teams op een manier zodat zij autonoom kunnen werken en enorm gemotiveerd raken. Als zij namelijk sterk afhankelijk zijn van andere teams dan vertraagt dat hun werk
   2. De teams werken volgens een architectuur waarbij zij onafhankelijke services maken. Onafhankelijk in die zin dat ze via API’s met elkaar communiceren, maar ook zó dat die services kleine componenten zijn met hun eigen technische implementatie. Deze architectuur maakt de teams nog zelfstandiger
   3. Die services worden continue geleverd. Misschien gebeurt dat bij jou nu maandelijks, maar dat kan al snel wekelijks, dagelijks en meerdere keren per dag worden. Hierdoor krijg je snelle feedback die je helpt beter te worden
