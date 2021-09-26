@@ -27,42 +27,42 @@ For each category, the authors then outline which 24 capabilities have a positiv
 
 _Continuous delivery_
 <br>
-1 Version control: application code as well as infrastructure configuration
-2 Deployment automation
-3 Continuous integration
-4 Trunk-based development over long-lived feature branches
-5 Test automation: reliable, easy to act on and executed frequently
-6 Test data management: better test automation with adequate data
-7 Shift left on security
-8 Continuous delivery implementation by adapting teams, processes and architecture
+1 Version control: application code as well as infrastructure configuration<br>
+2 Deployment automation<br>
+3 Continuous integration<br>
+4 Trunk-based development over long-lived feature branches<br>
+5 Test automation: reliable, easy to act on and executed frequently<br>
+6 Test data management: better test automation with adequate data<br>
+7 Shift left on security<br>
+8 Continuous delivery implementation by adapting teams, processes and architecture<br>
 
 _Architecture_
 <br>
-9 Loosely-coupled architecture
-10 Autonomous teams with decision-making authority (empowered teams)
+9 Loosely-coupled architecture<br>
+10 Autonomous teams with decision-making authority (empowered teams)<br>
 
 _Product and process_
 <br>
-11 Seek customer feedback and incorporate that in the design of products
-12 Value stream: understand flow of work from business to customer
-13 Working in small batches including the use of minimum viable products
-14 Experiments and having authority to make changes without approval
+11 Seek customer feedback and incorporate that in the design of products<br>
+12 Value stream: understand flow of work from business to customer<br>
+13 Working in small batches including the use of minimum viable products<br>
+14 Experiments and having authority to make changes without approval<br>
 
 _Lean management and monitoring_
 <br>
-15 Light weight change approval process (a heavy process is worse than having no process at all)
-16 Monitoring
-17 Pro-active notifications
-18 Limit the amount of work in-progress
-19 Visualise work
+15 Light weight change approval process (a heavy process is worse than having no process at all)<br>
+16 Monitoring<br>
+17 Pro-active notifications<br>
+18 Limit the amount of work in-progress<br>
+19 Visualise work<br>
 
 _Culture_
 <br>
-20 A generative culture of joint performance and transparency
-21 Encourage learning
-22 Strong collaboration between teams
-23 High employee satisfaction
-24 Leadership that is strong in transformation
+20 A generative culture of joint performance and transparency<br>
+21 Encourage learning<br>
+22 Strong collaboration between teams<br>
+23 High employee satisfaction<br>
+24 Leadership that is strong in transformation<br>
 
 The book is structured in line with these 5 areas and associated capabilities and consists of chapters titles as follows:
 - Technical development practices
