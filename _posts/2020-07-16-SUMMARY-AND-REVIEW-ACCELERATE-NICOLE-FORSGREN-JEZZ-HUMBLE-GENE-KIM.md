@@ -169,6 +169,7 @@ accelerate-pic4.png
 Figure 4: an overview of all capabilities and the influence they have
 
 **My opinion on the book**
+<br>
 Accelerate provides comprehensive insights. Therefore this summary cannot replace the book and I recommend you read the book yourself. The book covers really well what capabilities you need, but offers limited help on how you get from your current situation to the desired state. For example, how do I move from a tightly-coupled system to a loosely-coupled one? Or an even more complex example: how do I get to a culture required for high performance?
 
 The book hardly answers these questions and although you know what to do after reading, you really need help and further information to figure out how to get there.
@@ -181,6 +182,7 @@ Figure 5: if your way of working can influence the culture, then you can start s
 I can only echo the advice described in the book — start small by planting a seed today, and in two years you will have a tree.
 
 **About the authors**
+<br>
 Dr. Nicole Forsgren is VP Research & strategy at GitHub. At the time of writing the book, she was CEO and Chief Scientist at DevOps Research & Assessment (DORA). She is known as the lead investigator of this largest DevOps study to date. She’s been a professor and performance engineer. Her publications are published in several highly regarded media.
 
 Jez Humble is co-author of The DevOps Handbook, Lean Enterprise and Continuous Delivery (which won a Jolt award). He is currently researching the development of high performing teams as part of his company DevOps Research & Assessment (DORA). He also teaches at UC Berkeley.
@@ -188,4 +190,5 @@ Jez Humble is co-author of The DevOps Handbook, Lean Enterprise and Continuous D
 Gene Kim is CTO, researcher and author of The Phoenix Project, The DevOps Handbook and The Visible Ops Handbook. Gene is founder of IT Revolution and is founder and host of the DevOps Enterprise Summit conferences.
 
 **Important note about this summary**
+<br>
 Accelerate is a key learning resource for anyone dealing with a fast scaling organisation, therefore, this summary should not be used as a substitute for the book itself. My goal for providing this summary is to hopefully encourage you to buy the book yourself to form your own opinion. In this summary, I focus specifically on part 1 of the book. Part 2 is about the research approach and you can go through that after you have bought Accelerate yourself.
