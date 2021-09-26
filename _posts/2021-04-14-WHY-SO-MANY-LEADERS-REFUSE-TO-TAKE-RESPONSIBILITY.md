@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why so many leaders refuse to take responsibility and do not help their organisation at all"
-date:   2021-04-016
+date:   2021-04-14
 categories: leadership summary lencioni
 ---
 
