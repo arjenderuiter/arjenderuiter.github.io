@@ -13,9 +13,9 @@ In the [About](about.markdown) section you can read about my background. In the 
 <h2>Featured updates</h2>
 <table>
   <tr>
-    <td>Event Incentro</td>
-    <td>DevOps book launch</td>
-    <td>Summary of No Rules Rules</td>
+    <td width=33%>Event Incentro</td>
+    <td width=33%>DevOps book launch</td>
+    <td width=33%>Summary of No Rules Rules</td>
   </tr>
 </table>
   
