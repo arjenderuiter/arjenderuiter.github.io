@@ -98,7 +98,7 @@ The reason why they have selected these four metrics is backed up by research sh
 
 The thesis is that organisations that are good at these four metrics, are often also very successful as an organisation in general. In the book, they visualize these kinds of dependencies as follows:
 
-accelerate-pic1.png
+![accelerate-pic1](https://user-images.githubusercontent.com/5676977/134814431-b1ac6e15-f2f5-4e42-b80a-473a9a02624e.png)
 Figure 1: a good software organisation influences the success of the company
 
 I find these metrics a very strong point: what end-users or customers of a software organisation want is speed and stability. There is not much value in delivering fast when production is not stable. On the other hand you don’t want to achieve stability with controls that impact the speed of delivery. You want to have both and that is why they get to these metrics.
