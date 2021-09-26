@@ -8,12 +8,12 @@ categories: strategy conference
 This is the abstract of my talk at Devon Summit 2020 in Utrecht, The Netherlands. 
 Sign up for the event [here](https://www.devonsummit.com/)
 
-**3 proven principles for speed and stability at scale**
-You as an IT specialist know what your customers want: they want solutions fast and they want them to be available all the time.
-Speed & stability is what you need to offer. 
-Doing one of them is easy. 
-Doing both is harder. 
-Combining speed & stability at scale is even more difficult, unless you understand and apply 3 proven principles.
+**3 proven principles for speed and stability at scale**</br>
+You as an IT specialist know what your customers want: they want solutions fast and they want them to be available all the time.<br>
+Speed & stability is what you need to offer. <br>
+Doing one of them is easy. <br>
+Doing both is harder. <br>
+Combining speed & stability at scale is even more difficult, unless you understand and apply 3 proven principles.<br>
 
 In this talk I will explain these principles based on theory and practical examples from companies he worked for like bol.com, Parkmobile and Kramp.
 
