@@ -5,7 +5,7 @@
 layout: home
 ---
 
-Welcome to my site!\ 
-Below you find blog posts with articles I posted on platforms like The Lead Dev, Medium and company guest blogs.\ 
-Some posts refer to talks of mine at conferences, meetups and podcasts.\
-In the About section you can read about my background. In the Stories section you can read about companies I worked for.\
+Welcome to my site!&nbsp;
+Below you find blog posts with articles I posted on platforms like The Lead Dev, Medium and company guest blogs.
+Some posts refer to talks of mine at conferences, meetups and podcasts.
+In the About section you can read about my background. In the Stories section you can read about companies I worked for.
