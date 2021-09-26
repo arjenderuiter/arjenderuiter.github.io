@@ -11,6 +11,7 @@ Ik heb daarom de omzet van de grootste webwinkels in Nederland verdeeld over de 
 
 ![Cloud+providers+marketshare](https://user-images.githubusercontent.com/5676977/134803821-c2d46072-e196-4ca4-846a-93dbf1ca4e29.jpg)
 _Afbeelding: cloud providers marketshare_
+
 Zie de tabel onderaan het artikel voor details per webwinkel.
 
 Amazon is dus ruimschoots de grootste platform-provider in de Nederlandse e-commerce markt in termen van omzet die via hun platform vloeit.
