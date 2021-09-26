@@ -2,7 +2,7 @@
 layout: post
 title:  "No Rules Rules – The Key Takeaways in 20 minutes"
 date:   2021-12-24
-categories: book summary nexflix
+categories: book summary netflix
 ---
 
 There’s never before been a revolutionary company like Netflix, because of its counter-intuitive and radical management culture, which defies tradition and expectation. 
