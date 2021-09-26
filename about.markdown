@@ -10,6 +10,6 @@ I worked at bol.com as software engineering manager, introducing the personalise
 
 Today I work at Sendcloud where I help scale the tech organisation to support the company's growth  with focus on the delivery organisation and people development.
 
-![Screenshot 2021-09-26 at 11 43 44](https://user-images.githubusercontent.com/5676977/134802625-1080d8d2-4d20-4620-92f3-d7efcadaa8ff.jpg)
+![Me stalking at event of Incentro](_blob/me_talking_at_event_incentro.jpg)
 
 
