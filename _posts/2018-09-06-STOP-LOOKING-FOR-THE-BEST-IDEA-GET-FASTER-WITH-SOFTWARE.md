@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Stop looking for the best idea: the winner is the one who is fast in software development"
-date:   2019-09-06
+date:   2018-09-06
 categories: featured strategy
 ---
 
