@@ -18,7 +18,7 @@ Combining speed & stability at scale is even more difficult, unless you understa
 
 In this talk I will explain these principles based on theory and practical examples from companies he worked for like bol.com, Parkmobile and Kramp.
 
-I will not tell you WHAT to think, but HOW to think. If you know how to think, you can choose the practices that work best for your people and your company. Whether these practices are scrum, SAFe, DevOps, micro-services or cloud computing, that does not matter: these practices will change over time, while the principles stand strong. 
+I will not tell you _WHAT_ to think, but _HOW_ to think. If you know how to think, you can choose the practices that work best for your people and your company. Whether these practices are scrum, SAFe, DevOps, micro-services or cloud computing, that does not matter: these practices will change over time, while the principles stand strong. 
 
 This talk will provide you at least 1 take-way that you can apply at work tomorrow. It might be more however! 
 
