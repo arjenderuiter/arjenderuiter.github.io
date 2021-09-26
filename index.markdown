@@ -10,5 +10,12 @@ layout: home
 Below you find blog posts with articles I posted on platforms like The Lead Dev, Medium and company guest blogs. Some posts refer to talks of mine at conferences, meetups and podcasts.<br/>
 In the [About](about.markdown) section you can read about my background. In the [Stories](references.markdown) section you can read what I achieved at companies I worked for.<br/>
 
-<h2>Latest updates</h2>
-|Event Incentro|DevOps book launch|Summary Nu Rules Rules|
+<h2>Featured updates</h2>
+<table>
+  <tr>
+    <th>Event Incentro</th>
+    <th>DevOps book launch</th>
+    <th>Summary of No Rules Rules</th>
+  </tr>
+</table>
+  
