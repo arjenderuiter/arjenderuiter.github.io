@@ -23,7 +23,7 @@ Daarnaast kan je stellen dat een deel van het bezoek van Nederlandse webwinkels 
 Als je meer partijen dan de top 6 betrekt, dan verandert het beeld niet enorm: Jumbo doet 265 miljoen omzet op een platform dat bij AWS draait, H&M heeft 215 miljoen omzet via haar systemen die bij Azure draaien.
 
 ![Cloud+provider+per+e-commerce+bedrijf](https://user-images.githubusercontent.com/5676977/134803891-ce58a814-4bb6-4294-9fb5-3b646266f7d0.png)
-_Cloud provider per e-commerce bedrijf_
+_Afbeelding: Cloud provider per e-commerce bedrijf_
 
 Mijn gegevens zullen niet perfect zijn, maar het geeft een redelijk goed beeld van wie de grootste omzetstromen bedient in de Nederlandse online wereld.
 
