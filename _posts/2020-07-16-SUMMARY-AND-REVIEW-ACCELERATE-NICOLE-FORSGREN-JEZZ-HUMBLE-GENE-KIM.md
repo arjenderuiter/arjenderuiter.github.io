@@ -1,4 +1,4 @@
-<h1>Summary and review of 'Accelerate' by Nicole Forsgren PhD, Jezz Humble and Gene Kim [as published on Medium](https://medium.com/sendcloud-engineering/summary-and-review-of-accelerate-by-nicole-forsgren-phd-jez-humble-and-gene-kim-3817eee76986)</h1>
+Summary and review of 'Accelerate' by Nicole Forsgren PhD, Jezz Humble and Gene Kim [as published on Medium](https://medium.com/sendcloud-engineering/summary-and-review-of-accelerate-by-nicole-forsgren-phd-jez-humble-and-gene-kim-3817eee76986)
 
 **Overview**
 <br>
