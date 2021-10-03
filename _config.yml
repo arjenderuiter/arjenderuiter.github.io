@@ -18,6 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+# Personal info
 title: Arjen de Ruiter
 email: arjen@druitr.nl
 company_name: De Ruiter Software Consulting
@@ -28,10 +29,12 @@ description:
   De Ruiter Software Consulting
   KvK nummer 72111712
   BTW-identificatieummer NL001632950B90
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: arjenderuiter
 linkedin_username:  arjenderuiter
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+paginate: 5
 
 # Build settings
 theme: minima
