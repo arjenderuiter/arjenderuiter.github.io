@@ -42,18 +42,18 @@ layout: default
     <div class="pagination">
       {% if paginator.previous_page %}
         <a href="{{ paginator.previous_page_path }}" class="previous">
-          <-- Newer posts
+          << Newer
         </a>
       {% else %}
-        <span class="previous"><-- Newer posts</span>
+        <span class="previous"><< Newer</span>
       {% endif %}
       <span class="page_number ">
          - page {{ paginator.page }} of {{ paginator.total_pages }} -
       </span>
       {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path }}" class="next">Older posts --></a>  <a href=/posts>All posts</a>
+        <a href="{{ paginator.next_page_path }}" class="next">Older >></a>    <a href=/posts>All posts</a>
       {% else %}
-        <span class="next ">Older posts --></span>  <a href=/posts>All posts</a>
+        <span class="next ">Older >></span>.   <a href=/posts>All posts</a>
       {% endif %}
     </div>
 
