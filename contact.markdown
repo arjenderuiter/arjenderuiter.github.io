@@ -4,7 +4,7 @@ title: Contact me
 permalink: /contact/
 ---
 
-How can I help you? Please fill and submit the form below1
+How can I help you? Please fill and submit the form below<br>
 
 <form accept-charset="UTF-8" action="https://formkeep.com/f/51c69791334a" method="POST">
 
@@ -16,7 +16,7 @@ How can I help you? Please fill and submit the form below1
 <br>
 <label for="message">Message</label><br>
 <textarea name="message" rows="5" cols="60"></textarea><br>
-<br>
+
 <input type="hidden" name="utf8" value="✓"/><br>
 <input type="submit" value="Submit"/>
 
