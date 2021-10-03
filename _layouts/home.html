@@ -51,9 +51,9 @@ layout: default
          - page {{ paginator.page }} of {{ paginator.total_pages }} -
       </span>
       {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path }}" class="next">Older posts --></a>
+        <a href="{{ paginator.next_page_path }}" class="next">Older posts --></a>  <a href=/posts>All posts</a>
       {% else %}
-        <span class="next ">Older posts --></span>
+        <span class="next ">Older posts --></span>  <a href=/posts>All posts</a>
       {% endif %}
     </div>
 
