@@ -4,9 +4,6 @@ title: All posts
 permalink: /posts/
 ---
 
-## All posts
-
-
   {% assign posts = site.posts %}
 
 
@@ -30,7 +27,5 @@ permalink: /posts/
       </li>
       {%- endfor -%}
     </ul>
-
-    <!-- Pagination links  removed -->
 
   {%- endif -%}
