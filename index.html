@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<h1>Welcome to my site!</h1>
+<h1>Welcome to my site! 1</h1>
 
 Below you find blog posts with articles I posted on platforms like The Lead Dev, Medium and company guest blogs. Some posts refer to talks of mine at conferences, meetups and podcasts.<br/>
 In the [About](about.markdown) section you can read about my background. In the [Stories](references.markdown) section you can read what I achieved at companies I worked for.<br/>
@@ -19,3 +19,31 @@ In the [About](about.markdown) section you can read about my background. In the 
   </tr>
 </table>
   
+{% for post in paginator.posts %}
+<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+<p class="author">
+  <span class="date">{{ post.date }}</span>
+</p>
+<div class="content">
+  {{ post.content }}
+</div>
+{% endfor %}
+
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">
+      Previous
+    </a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number ">
+    Page: {{ paginator.page }} of {{ paginator.total_pages }}
+  </span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
+</div>
