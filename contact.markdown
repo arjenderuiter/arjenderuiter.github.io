@@ -8,7 +8,7 @@ How can I help you? Please fill and submit the form below
 
 <form accept-charset="UTF-8" action="https://formkeep.com/f/51c69791334a" method="POST">
 
-<table>
+<table background: transparent>
   <tr>
   <td><label for="email">Email: </label></td>
   <td><input type="email" name="email" required/><br></td>
