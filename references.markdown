@@ -4,7 +4,6 @@ title: Stories
 permalink: /stories/
 ---
 
-## Sendcloud
 Today I work at Sendcloud where I help scale the tech organisation to support the company’s growth with focus on the delivery organisation and people development.
 
 ![sendcloud_site](https://user-images.githubusercontent.com/5676977/135763587-55ab5579-03c5-4229-b616-497945d2d225.png)
