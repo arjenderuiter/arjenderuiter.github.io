@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 # Personal info
-title: Arjen de Ruiter1
+title: Arjen de Ruiter2
 email: arjen@druitr.nl
 company_name: De Ruiter Software Consulting
 kvk_info: KvK nummer 72111712
@@ -34,7 +34,8 @@ linkedin_username:  arjenderuiter
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-paginate: true
+
+paginate: 5
 
 # Build settings
 theme: minima
