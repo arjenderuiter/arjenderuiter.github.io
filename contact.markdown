@@ -19,6 +19,6 @@ How can I help you? Please fill and submit the form below
   
   <input type="hidden" name="utf8" value="✓"/><br>
   
-  <button type="submit" value="Submit"/>
+  <input type="submit" value="Submit"/>
 
 </form>
