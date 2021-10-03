@@ -35,7 +35,7 @@ linkedin_username:  arjenderuiter
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-paginate: 5
+paginate: 3
 
 # Build settings
 theme: minima
