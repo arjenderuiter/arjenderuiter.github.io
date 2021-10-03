@@ -48,7 +48,7 @@ layout: default
         <span class="previous"><-- Newer posts</span>
       {% endif %}
       <span class="page_number ">
-        Page: {{ paginator.page }} of {{ paginator.total_pages }}
+         - page {{ paginator.page }} of {{ paginator.total_pages }} -
       </span>
       {% if paginator.next_page %}
         <a href="{{ paginator.next_page_path }}" class="next">Older posts --></a>
