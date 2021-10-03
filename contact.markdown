@@ -14,9 +14,6 @@ How can I help you? Please fill and submit the form below
   <label for="name">Name: 
    <input type="text" name="name"/><br>
   
-  <label for="message">Message: 
-   <textarea rows="5" cols="60" name="message"></textarea><br>
-  
   <input type="hidden" name="utf8" value="✓"/><br>
   
   <button type="submit">Submit</button>
