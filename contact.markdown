@@ -11,10 +11,10 @@ How can I help you? Please fill and submit the form below
   <label for="email">Email: </label> 
    <input type="email" name="email" required/><br>
   
-  <label for="name">Name: 
+  <label for="name">Name: </label>
    <input type="text" name="name"/><br>
     
-  <label for="message">Message: 
+  <label for="message">Message: </label>
     <textarea name="message" rows="5" cols="60"></textarea><br>
   
   <input type="hidden" name="utf8" value="✓"/><br>
