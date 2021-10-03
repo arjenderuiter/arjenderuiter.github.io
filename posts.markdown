@@ -6,18 +6,8 @@ permalink: /posts/
 
 ## All posts
 
-<div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
 
-
-
-  {% if site.paginate %}
-    {% assign posts = paginator.posts %}
-  {% else %}
-    {% assign posts = site.posts %}
-  {% endif %}
+  {% assign posts = site.posts %}
 
 
   {%- if posts.size > 0 -%}
@@ -44,5 +34,3 @@ permalink: /posts/
     <!-- Pagination links  removed -->
 
   {%- endif -%}
-
-</div>
