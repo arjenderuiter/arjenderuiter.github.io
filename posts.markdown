@@ -1,7 +1,7 @@
 ---
 layout: page
 title: All posts
-permalink: /about/
+permalink: /posts/
 ---
 
 ## All posts
