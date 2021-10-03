@@ -4,7 +4,7 @@ title: All posts
 permalink: /posts/
 ---
 
-## All posts
+All posts</br>
 
 <div class="home">
   {%- if page.title -%}
