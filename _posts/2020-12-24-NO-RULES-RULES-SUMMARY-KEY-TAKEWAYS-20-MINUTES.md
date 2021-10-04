@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "No Rules Rules – The Key Takeaways in 20 minutes"
-date:   2021-12-24
+date:   2020-12-24
 categories: book summary netflix
 ---
 
