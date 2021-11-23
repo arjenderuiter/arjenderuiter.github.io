@@ -5,7 +5,7 @@ date:   2021-06-20
 categories: devsops book 
 ---
 
-Together with my colleague Tim Drijvers I contributed to a book on high performing DevOps enterprise, a book by DevOn.
+Together with my colleague Tim Drijvers I contributed to a book on high performing DevOps enterprises, a book by DevOn.
 
 <h2>Small steps towards building trust in automation</h2>
 
@@ -39,6 +39,7 @@ To deal with these challenges, you need to build trust and take steps in several
 3. Get teams using a self-service platform that scales.
 If you take just the step of implementing CI/CD practices, for example, without moving to smaller, loosely coupled services, you only get part of the benefits. The tech strategy at Sendcloud aims to do it all in parallel, but we still use Agile best practices to do it in small iterations.
 
+![A_unified_way](https://user-images.githubusercontent.com/5676977/143076253-6cacd351-b590-411a-bf67-93e9d341ab12.png)
 
 <h3>Standardization and focusing on outcome</h3>
 
@@ -56,3 +57,8 @@ Regardless of what technologies the future holds, it is unlikely that teams will
 There are many ways to look at how mature the Dutch market is in respect to DevOps. First, there is the labor market. From the perspective of attracting and developing talent, you need to apply DevOps practices as that is what people want. Engineers these days do not want to be dependent on others, they want to take ownership, they want to make their own decisions on how to do things. So Dutch companies need to move in this direction, otherwise they will lose out to competition when it comes to hiring.
 The second angle to consider is consulting companies. They need to be willing to run what they build for you. Nobody needs partners who do the build and then leave the running up to you. If they do not take responsibility for how solutions run, it ultimately delivers a sub-optimal result for the customer.
 Finally, if we consider software vendors, there are not many Dutch companies that are strong in platform features. Elasticsearch is a nice success story. However, other companies have a hard time as the large cloud vendors like AWS, GCP, and Azure keep moving up in the stack and offering more and more competitive services.
+
+![quote_from_book](https://user-images.githubusercontent.com/5676977/143076252-47fd19ee-1320-4588-b213-b2b75316c172.png)
+
+![book_cover](https://user-images.githubusercontent.com/5676977/143076240-2d0ff06f-e88b-41a6-a548-41ce1108aa25.png)
+
