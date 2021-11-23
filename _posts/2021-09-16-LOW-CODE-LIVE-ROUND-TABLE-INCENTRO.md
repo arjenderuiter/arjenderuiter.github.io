@@ -6,7 +6,7 @@ categories: low code incentro
 ---
 
 Incentro invited me to join a live conversation on low code.
-Is was invited because of my experience building a marketplace for Kramp using a low code platform on top of a healdess e-commerce platform.
+Is was invited because of my experience building a marketplace for Kramp using a low code platform on top of a headless e-commerce platform.
 During the interview we referred several times to my earlier article 'low code through the eyses of a traditional programmer'.
 
 You can watch the recording [here on Vimeo](https://vimeo.com/588386859)
