@@ -11,11 +11,11 @@ Recently Twinkle Magazine published the top 100 Dutch e-commerce companies for 2
 
 We all know where the money is made however: the platform always wins, so Amazon Web Services (AWS), Azure and Google Cloud Platform (GCP). So, like last like last year, I checked for each company in the Top 10 where they run (see table below, revenue is of 2020).
 
-![revenue_per_platform]()
+![revenue_per_platform](https://user-images.githubusercontent.com/5676977/143086275-7e7489b5-4341-467a-b2d0-5b4884d310dd.png)
 
 Then I created an overview of how much e-commerce revenue flows via each platform. This resulted in the following chart with revenue (in millions and marketshare in the Top 10):
 
-![top_3]()
+![top_3](https://user-images.githubusercontent.com/5676977/143086287-8b9889bd-9dc9-477e-93b9-a02370fc472a.png)
 
 <h2>Key takeaways for 2020</h2>
 Amazon serves 50% of the Top 10 Dutch e-commerce companies in terms of revenue 
