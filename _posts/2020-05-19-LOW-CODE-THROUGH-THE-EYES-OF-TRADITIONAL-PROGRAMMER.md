@@ -44,7 +44,7 @@ For the first think about internal applications to simply maintain records. For 
 
 Think about it on a scale of good fit to not-so-good fit:
 
-![scale_simple_to_complex]()
+![scale_simple_to_complex](https://user-images.githubusercontent.com/5676977/143087445-8d8a020c-a370-4779-a492-65bcad88376f.png)
 
 If you have a simple scenario, then I would say go for low code (if you can afford the license costs). If your problem looks more like the complex scenario, then continue reading. 
 
@@ -52,7 +52,7 @@ If you have a simple scenario, then I would say go for low code (if you can affo
 
 In the graph below I visualised how in my experience speed evolves over time in a low code environment compared to a hand code solution. Of course, I assume that the hand coded solution is done well: modular, horizontally scalable, etc. 
 
-![speed_and_scale]()
+![speed_and_scale](https://user-images.githubusercontent.com/5676977/143087444-e91b5a3a-ad87-46ce-8639-cf620558352a.png)
 
 What I want to illustrate is that low code is fast at first. There are a few reasons for that: 
 - There is hardly any boiler plating involved, so you can start right away and deliver value from day 1 
@@ -65,7 +65,7 @@ Once you grow however, you get diminishing returns: you may double your team in 
 
 So this is, in my opinion, the design trade-off of low code: you get functionality fast, but it comes at the cost of non-functionals. Once you get bigger that’s when it’s going to hurt, so you need to plan to avoid that. 
 
-![nfr]()
+![nfr](https://user-images.githubusercontent.com/5676977/143087442-87e795c6-c61d-41de-9332-991e81a23d36.png)
 
 I am not stating that all low code platforms are bad in non-functionals. It is just not their strength, but a result of the trade-off they made. You need to consider that to avoid disillusion. Below I share a few of these considerations. 
 
@@ -112,7 +112,7 @@ So far, I listed some things to consider when you plan to use low code platforms
 <h2>Cases where low code works fine: when large scale and stability are not (yet) important</h2>
 You might feel that low code is not for you after reading all the above. But like with many IT solutions, it might be a good fit. As said, when you use it as intended, when you leverage its strengths and when you plan for solving weaknesses. In my opinion the following cases are a good fit for using a low code platform: 
 
-![cases]()
+![cases](https://user-images.githubusercontent.com/5676977/143087440-e0857a10-fcbf-4cc1-8274-76473c8db12c.png)
 
 You can grow your way out of these characteristics in several ways: 
 - Your simple application evolves into a more complex one 
@@ -125,11 +125,11 @@ These developments are positive and without your low code platform it might have
 <h2>Recommended growth path</h2>
 While your stakeholders or customers are still happy you need to start the discussion on what it takes to keep them happy. This is not always easy because (as illustrated below) this is all about architecture and paying off technical debt. Both are invisible items compared to features and bugs. 
 
-![tech_debt_quadrant]()
+![tech_debt_quadrant](https://user-images.githubusercontent.com/5676977/143087438-d58d4391-54b4-4786-afcb-8669fccd5fcc.png)
 
 People have plenty of time to discuss features and bugs, because they are visible, valuable and tangible. In contrast, architecture and technical debt are more abstract and have no immediate value. That is why you need to plan for it as of day 1. When you start your first day building a low code application, also initiate the discussion that is needed to set expectations and keep everyone happy. For doing this I recommend multiple phases that balance short term goals with long-term needs. 
 
-![transition_path]()
+![transition_path](https://user-images.githubusercontent.com/5676977/143087436-66ac20f8-9b8e-46fa-be0a-428f5359881a.png)
 
 <h3>1 - Learning phase</h3>
 You start off with your simple application. There is no outlook for more complex requirements, so you do not want to do premature optimization.  
@@ -174,5 +174,5 @@ In the scenario where both the back-end and front-end have been moved away from 
 <h2>Conclusion: low code is a good choice when used as intended</h2>
 Low code platforms are a nice addition to the available options for building a digital business. You do need to use it as intended. And it has its trade-offs. But that applies to all technologies. To avoid disillusion use it for the cases mentioned in the article (simple, small case, a new product to be tested) and plan well ahead in case your situation changes (more complex, large scale, proven product). If you do so, you get the benefits and avoid the pitfalls. As illustrated below you’ll be fast in the beginning and you’ll stay fast at scale. Where does the beginning phase end and where does larger scale start? That depends on the specific low code platform you choose.
 
-![speed_and_scale_end]()
+![speed_and_scale_end](https://user-images.githubusercontent.com/5676977/143087432-28a68748-6b8f-4a19-87f8-ae15612889fc.png)
 
