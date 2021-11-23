@@ -5,6 +5,8 @@ date:   2021-10-25
 categories: strategy ecommerce
 ---
 
+_This article was originally [published on LinkedIn](https://www.linkedin.com/pulse/amazon-1-moneymaker-dutch-e-commerce-arjen-de-ruiter/)_
+
 Recently Twinkle Magazine published the top 100 Dutch e-commerce companies for 2020. Compared to 2019, the top 10 has a few entrants. These entrants are mainly online groceries who benefited from Corona measures. According to Laurens Sloot of University of Groningen, these online food companies do not make profit.
 
 We all know where the money is made however: the platform always wins, so Amazon Web Services (AWS), Azure and Google Cloud Platform (GCP). So, like last like last year, I checked for each company in the Top 10 where they run (see table below, revenue is of 2020).
