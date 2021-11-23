@@ -31,7 +31,7 @@ A response often seen is to multiply development capacity to serve all these new
 _Diminishing returns of product feature development – the value for effort decreases with each next best feature._
 
 The long tail of product features
-When I saw this pattern a few times, it reminded me of Chris Anderson. In his book, The Long Tail, he describes the following phenomenon in retail business:
+When I saw this pattern a few times, it reminded me of Chris Anderson. In his book, [The Long Tail](https://www.amazon.com/Long-Tail-Future-Business-Selling/dp/1401309666/ref=sr_1_1?dchild=1&keywords=the+long+tail&qid=1619601332&sr=8-1), he describes the following phenomenon in retail business:
 - Few products get sold a lot: the head
 - Most products get sold only a few times: the long tail
 
@@ -49,7 +49,7 @@ By ‘customers’ I do not mean the primary segments you focused on first, I me
 But how do you make the long tail of product features as profitable? How do you make sure you do not require 100% increase in capacity for only 50% increase in value? This is where you can apply platform thinking to product development.
 
 <h2>Think ‘platform first’ in product development</h2>
-Let’s look at the ‘attract’ phase from the Marketplace model discussed in Platform Strategy by Laure Claire Reillier and Benoit Reillier.
+Let’s look at the ‘attract’ phase from the Marketplace model discussed in [Platform Strategy](https://www.amazon.com/Platform-Strategy-Communities-Networks-Business/dp/1472480244/ref=sr_1_1?dchild=1&keywords=Platform+Strategy&qid=1620141388&sr=8-1) by Laure Claire Reillier and Benoit Reillier.
 
 In this model, you first attract both sides of the marketplace: demand and supply. In this case, you have customers with a need for solutions on one side and partners who can offer a solution on the other side. You can only do this in the following order:
 - You develop a strong head that attracts sufficient customers from your primary segments
