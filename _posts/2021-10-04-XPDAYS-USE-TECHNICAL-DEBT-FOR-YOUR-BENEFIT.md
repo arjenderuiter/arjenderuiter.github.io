@@ -8,6 +8,8 @@ categories: technical debt xpdays game
 In November 2021 I shared my experience with technical debt and how you can make it work for you, without losing control. Below you can find my abstract.
 Check the full program of XPDay BeNeLux [here](https://xpday.nl/programme-2021/).
 
+![XPDays_logo](https://user-images.githubusercontent.com/5676977/143073430-f41a0edd-6acc-4e8b-8f30-c7b706feabf6.png)
+
 <h3>Abstract of my talk</h3>
 
 In software development, technical debt is the cost of rework you need to do, in order to keep a system functional in the long run.
@@ -22,5 +24,3 @@ For example, not having any technical debt probably means that you’re over eng
 I have created a game to make it easy for engineers to discuss this topic with stakeholders. This game aims to help you understand how to leverage technical debt to your benefit, so you build a successful business. You’ll also learn that too much technical debt might give you success in the short term, but makes you loose in the long term. You need to figure out how to strike a balance! 🙂
 
 After the presentation, the game will be explained and it can be download from github where it is available under a creative commons licence. By the time of the XP Days event, there will be a web page as well.
-
-![XPDays_logo](https://user-images.githubusercontent.com/5676977/143073430-f41a0edd-6acc-4e8b-8f30-c7b706feabf6.png)
