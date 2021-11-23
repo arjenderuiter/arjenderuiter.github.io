@@ -5,8 +5,10 @@ date:   2021-10-04
 categories: technical debt xpdays game
 ---
 
-In November 2021 I shared my experience with technical debt and how you can make it wortk for you, withour losing control. Below you can find my abstract.
+In November 2021 I shared my experience with technical debt and how you can make it work for you, without losing control. Below you can find my abstract.
 Check the full program of XPDay BeNeLux [here](https://xpday.nl/programme-2021/).
+
+<h3>Abstract of my talk</h3>
 
 In software development, technical debt is the cost of rework you need to do, in order to keep a system functional in the long run.
 It could either be the result of taking shortcuts, which pile up code that you need to come back to later; or, it could also be the result of changing requirements – for example, you have more users than you expected, and now you have performance issues.
