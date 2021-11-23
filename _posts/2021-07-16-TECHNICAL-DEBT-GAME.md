@@ -5,6 +5,8 @@ date:   2021-07-15
 categories: game technical debt agile devsop
 ---
 
+
+
 In June 2021 Jomiro Eming and I launched 🚀  the Technical Debt Game  🎲
 A game that teaches you how to leverage and control technical debt!
 
