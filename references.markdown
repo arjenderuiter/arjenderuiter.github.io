@@ -4,7 +4,10 @@ title: Stories
 permalink: /stories/
 ---
 
-Today I work at Sendcloud where I help scale the tech organisation to support the company’s growth with focus on the delivery organisation and people development.
+Today I work at Sendcloud where I help scale the tech organisation to support the company’s growth with focus on the delivery organisation and people development:
+- Since June 2021 to December 2021 we grew from 28 engineers to 70
+- We grew from 3 product teams, to 8 product teams and 2 platform teams
+- We went from 5 people at our offshore integration partner to 35 engineers at 2 offshore partners
 
 ![sendcloud_site](https://user-images.githubusercontent.com/5676977/135763587-55ab5579-03c5-4229-b616-497945d2d225.png)
 
