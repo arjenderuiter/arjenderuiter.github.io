@@ -6,7 +6,7 @@ categories: low code linkedin
 ---
 
 <h3>30 second summary</h3>
-Low code helps deliver fast in these scenarios: 
+[Low code](https://en.wikipedia.org/wiki/Low-code_development_platform) helps deliver fast in these scenarios: 
 - Simple transactional applications 
 - Solutions for internal use 
 - Test a new business concept or product 
@@ -28,7 +28,7 @@ During the last 12 months I have worked on two products using a low code platfor
 
 Initially I was sceptical about low code platforms. Now I am positive if you use it for the purpose it’s designed for. And that is where things in IT often go wrong: people use technology in places where it might not be the best fit, because it is all they know or maybe because it is a hype. Expectations are high, but soon disillusion kicks in. In this post I would like to share with you how I would get most value using low code platforms and how to avoid disillusion. In terms of the Gartner hype cycle I hope to bring you to the plateau of productivity with low code platforms. 
 
-First, I keep in mind the 2 main goals of any software technology organisation according to the book Accelerate (Forsgren, Humble, Kim): 
+First, I keep in mind the 2 main goals of any software technology organisation according to the book [Accelerate](https://itrevolution.com/book/accelerate/) (Forsgren, Humble, Kim): 
 
 1. Deliver solutions fast 
 2. Run stable in production 
@@ -141,7 +141,7 @@ In both cases there is no need to handle high usage volumes or support large dev
 <h3>2 - Decouple back-end and front-end</h3>
 I would start working on this step as soon as you get signs that your application is going to be successful. If not, then just leave it as is. Most platforms have the option to build an API layer on top of its database. Some might even do so by design. In the latter case you are all set. If not, then make sure your UI connects to an API layer that exposes the database. Preferably you build this within the low code platform to leverage its features for high speed. Later, in phase 4, you’ll move this to another platform. 
 
-Solutions like this are often referred to as Back-end For Front-End (BFF) or a Gateway. 
+Solutions like this are often referred to as [Back-end For Front-End](https://samnewman.io/patterns/architectural/bff/) (BFF) or a Gateway. 
 
 <h3>3 - Scaling up the back end</h3>
 Now that you have de-coupled front-end and back-end you can enjoy some benefits already: 
@@ -152,7 +152,7 @@ Let’s for example take a web shop. When you search for a product and you click
 
 In this case take out the Product Content and Offer functionality and put is in a separate service (not on your low code platform). You can build it yourself or choose a headless commerce platform like Commercetools. For that service you can choose the technology that fits for purpose, e.g. not a relational database, but a document store for Product Content where you retrieve all product information for a product ID with just one API call. 
 
-Now reconnect the API layer to your new Product Content and Product Offer services and there you go: you now have a highly scalable part of your application without front-end or end user impact. This approach is referred to as the Strangler Pattern. 
+Now reconnect the API layer to your new Product Content and Product Offer services and there you go: you now have a highly scalable part of your application without front-end or end user impact. This approach is referred to as the [Strangler Pattern](https://martinfowler.com/bliki/StranglerFigApplication.html). 
 
 You should put these improvements on your product roadmap and continually discuss them with your stakeholders. Over time you’ll end up with a highly scalable and high available set of back-end services that can be built and deployed independently from each other and from the front-end. 
 
