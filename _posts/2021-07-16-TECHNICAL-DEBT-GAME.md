@@ -5,7 +5,7 @@ date:   2021-07-15
 categories: game technical debt agile devsop
 ---
 
-In June 2021 Jomiro Eming and I launched 🚀 the Technical Debt Game 🎲
+In June 2021 Jomiro Eming and I launched 🚀  the Technical Debt Game  🎲
 A game that teaches you how to leverage and control technical debt!
 
 In software development, technical debt is the cost of rework you need to do, in order to keep a system functional in the long run. It could either be the result of taking shortcuts, which pile up code that you need to come back to later; or, it could also be the result of changing requirements - for example, you have more users than you expected, and now you have performance issues.
@@ -18,5 +18,5 @@ For example, not having any technical debt probably means that you’re over eng
 
 This game aims to help you understand how to leverage technical debt to your benefit, so you build a successful business. You’ll also learn that too much technical debt might give you success in the short term, but makes you lose in the long term. You need to figure out how to strike a balance!💥 😀
 
-Download 👉 [here from Github][https://github.com/arjenderuiter/techdebtgame]
-Also check [the reactions on LinkedIn][https://www.linkedin.com/posts/arjenderuiter_gameplay-technicaldebt-startup-activity-6826021272611246080-5rTU]
+Download 👉 [here from Github](https://github.com/arjenderuiter/techdebtgame)
+Also check [the reactions on LinkedIn](https://www.linkedin.com/posts/arjenderuiter_gameplay-technicaldebt-startup-activity-6826021272611246080-5rTU)
