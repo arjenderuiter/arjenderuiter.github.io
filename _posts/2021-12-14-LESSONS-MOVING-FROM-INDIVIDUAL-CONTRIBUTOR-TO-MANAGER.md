@@ -50,22 +50,21 @@ Only then get into the mode of being more directive and do explain why (Situatio
 - People expect they can make all decisions themselves, while some need more direction (Situational Leadership), so if you are not clear about that upfront, then it leads to disappointment 
 
 <h3>Further reading:</h3>
-- Situational Leadership: short book The One Minute Manager 
-- Example Manifesto: see appendix I 
-- No Rules Rules: a book on Netflix culture of setting context (principles) over controls (practices) 
-- Summary of No Rules Rules: here on my site  
+- Situational Leadership: short book [The One Minute Manager](https://libris.nl/boek?authortitle=blanchard-ken/the-one-minute-manager--9780062367549)
+- [No Rules Rules](https://libris.nl/boek?authortitle=reed-hastings-erin-meyer/no-rules-rules--9789000365685): a book on Netflix culture of setting context (principles) over controls (practices) 
+- Summary of No Rules Rules in [this post of mine](https://arjenderuiter.github.io/book/summary/netflix/2020/12/24/NO-RULES-RULES-SUMMARY-KEY-TAKEWAYS-20-MINUTES.html)
 
 
 <h2>II – The First Team principle</h2>
 
-The approach above should save you some time. That is time that you do not have to spend on the team that you manage. Instead, you can now spend it on the team that you are member of. In this section I’ll explain the difference and why it is so important. 
+The approach above should save you some time. That is time that you do not have to spend on __the team that you manage__. Instead, you can now spend it on __the team that you are member of__. In this section I’ll explain the difference and why it is so important. 
 This lesson I learned from Patrick Lencioni. He describes it is his book The Five Dysfunctions of a Team. It is only a short section of the book that is dedicated to this topic. Still for me it is a key concept. 
 
 <h3>The team you manage <> the team you are member of</h3>
-See picture below. Imagine that you are the managers of a product development team. That is the team that you manage. 
-The technical platform manager also has a team that she or he manages.  And the same for the product manager who maybe manages a team of product owners and designers. Together they are member of a management team.  
+See picture below. Imagine that you are the managers of a product development team. __That is the team that you manage__. 
+The technical platform manager also has a team that she or he manages.  And the same for the product manager who maybe manages a team of product owners and designers. Together they are __member of__ a management team.  
 
-[picture]
+![image](https://user-images.githubusercontent.com/5676977/157892767-0d30f93a-a1e7-41ab-b26f-62041a29a7b0.png)
  
 What most managers do, is that they prioritize the team that they manage over the team they are member of. This often leads to sub-optimal results and conflict. E.g., you tell your team to go left, and the platform managers tells her or his team to go right. People in both teams then get a conflict. That conflict is not their fault, but a result of you not aligning with the managers in the team that you are member of. My lesson: at least give both teams equal priority, so that you are of even more value for the team that you manage. 
 
@@ -75,5 +74,5 @@ Topics that you typically align on with the team you manage, relate to section I
 You cannot do this on your own. You need to do this together with people in the team you are manager of. Otherwise, this will not fly. Discuss this with them and your manager (who is often also their manager). Often you can use real life examples of misalignment to make your point. And explain to your manager the value of his direct reports working as a team, instead of working as a group of individuals. 
 
 <h3>Further reading</h3>
-- The Five Dysfunctions of a Team by Pat Lencioni (this book has more great insights that I did not describe in this document, like building trust as the foundation of a great team) 
-- The Five Dysfunctions of a Team: short video  
+- [The Five Dysfunctions of a Team](https://libris.nl/boek?authortitle=lencioni-patrick-m-/the-five-dysfunctions-of-a-team--9780470823385) by Pat Lencioni (this book has more great insights that I did not describe in this document, like building trust as the foundation of a great team) 
+- The Five Dysfunctions of a Team: [short video](https://www.youtube.com/watch?v=BjE_mPoZPSg)
