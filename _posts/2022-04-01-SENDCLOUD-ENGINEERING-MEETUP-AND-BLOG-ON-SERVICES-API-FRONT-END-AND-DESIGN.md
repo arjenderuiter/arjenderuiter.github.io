@@ -29,7 +29,8 @@ Checkout the result using the links below:
 - [Dev.to blog](https://dev.to/sendcloud)
 - [Youtube channel](https://www.youtube.com/channel/UCLHNbv)
 
-</p>
+
 ![meetup_page](https://user-images.githubusercontent.com/5676977/178157207-4db84e55-789c-41c0-8ffa-9cb11f886d85.png)
-</p>
+
+
 ![devto_page](https://user-images.githubusercontent.com/5676977/178157243-24cbce7c-adc9-4b5c-a361-069899c3e9ee.png)
