@@ -4,7 +4,7 @@ title: Reference stories
 permalink: /stories/
 ---
 
-In 2021 and 2022 I workd at Sendcloud where I helped scale the tech organisation to support the company’s growth with focus on the delivery organisation and people development:
+In 2021 and 2022 I worked at Sendcloud where I helped scale the tech organisation to support the company’s growth with focus on the delivery organisation and people development:
 - Since June 2021 to December 2021 we grew from 28 peoplew in engineering and product to almost 100
 - We grew from 3 product teams, to 8 software development teams, 2 platform teams and a product & design team 
 - We went from 5 people at our offshore integration partner to 35 engineers at 2 offshore partners
