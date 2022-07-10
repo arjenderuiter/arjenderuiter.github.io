@@ -6,7 +6,7 @@ permalink: /stories/
 
 From 2020 to 2022 I worked at Sendcloud where I helped scale the tech organisation to support the company’s growth with focus on the delivery organisation and people development:
 - From June 2020 to June 2022 we grew from 28 people in engineering and product to almost 100
-- We grew from 3 product teams, to 8 software development teams, 2 platform teams and a product & design team 
+- We grew from 3 product teams, to 8 software development teams, 3 platform teams and a product & design team 
 - We went from 5 people at our offshore integration partner to 35 engineers at 2 offshore partners
 
 ![sendcloud_site](https://user-images.githubusercontent.com/5676977/135763587-55ab5579-03c5-4229-b616-497945d2d225.png)
