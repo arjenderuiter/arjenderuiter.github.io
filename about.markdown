@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-I help organisations to improve 🚀 software delivery performance. I prefer to do so in interim management positions. 
+I help organisations to improve software delivery performance. I prefer to do so in interim management positions. 
 Besides, I do consulting work, provide training and deliver inspirational talks, both in-company and at public events. 
-I also host the Engineering Leadership NL meetup.
+I also host the [Engineering Leadership NL meetup](https://www.meetup.com/engineeringleadershipnl/).
 
 Today I work as engineering manager FinTech at [bol.com](www.bol.com). In recent years I was VP Engineering at [Sendcloud](www.sendcloud.com) and Head of Product & Engineering at [Maykers](www.maykers.com), part of [Kramp](www.kramp.com).
 
