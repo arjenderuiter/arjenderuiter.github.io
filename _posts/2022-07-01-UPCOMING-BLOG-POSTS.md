@@ -1,4 +1,9 @@
-
+---
+layout: post
+title:  "Upcoming articles: my public to do list"
+date:   2022-07-01
+categories: to-do articles blog
+---
 
 I keep track of my upcoming articles here. Just so that I do not forget. And just so you know what I have done recently, but still need to work out ;-)
 the following stories are upcoming:
