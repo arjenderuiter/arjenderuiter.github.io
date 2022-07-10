@@ -5,7 +5,7 @@ date:   2022-04-01
 categories: meetup services api front-end content blog
 ---
 
-In 2020 I helpd Sendcloud with the launch of their tech blog and engineering meetup.
+In 2020 I helped Sendcloud with the launch of their tech blog and engineering meetup.
 We did this with a few goals in mind
 
 <h2>Personal development of our team members who write</h2>
