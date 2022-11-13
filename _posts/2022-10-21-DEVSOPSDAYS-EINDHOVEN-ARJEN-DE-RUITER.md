@@ -4,9 +4,10 @@ title:  "Recording and resources of my talk 'Beat The Curve' at DevOpsDays Eindh
 date:   2022-10-21
 categories: scaling-up scaling-down goldratt productmanagement 
 ---
-This vedeo is a recvording o my talk at DevOpsDays Eindhoven. Below the video you find the list of resources I have used for my talk or I refer to in my talk.
-
-![Beat the curve on YouTube](https://www.youtube.com/watch?v=zcIQfM9cX8E)
+[This video](https://www.youtube.com/watch?v=zcIQfM9cX8E) is a recording of my talk at DevOpsDays Eindhoven. Below the video you find the list of resources I have used for my talk or I refer to in my talk.
+<br/>
+![Beat the curve on YouTube](https://user-images.githubusercontent.com/5676977/201532526-a020e47b-6bb6-4f7d-bc44-d3d49872b625.jpg)
+<br/>
 
 * [Slides](https://github.com/arjenderuiter/arjenderuiter.github.io/files/9819695/Copy.for.download.Beat.the.curve.DevOpsDays.Eindhoven.2022.pdf) of my talk Beat The Curve
 * [Summary of Accelerate](https://arjenderuiter.github.io/book/summary/accelerate/2020/07/16/SUMMARY-AND-REVIEW-ACCELERATE-NICOLE-FORSGREN-JEZZ-HUMBLE-GENE-KIM.html) and the 4 metrics: Deploy Frequency, Time to Market, Change Fail Rate, Time to Resolve
