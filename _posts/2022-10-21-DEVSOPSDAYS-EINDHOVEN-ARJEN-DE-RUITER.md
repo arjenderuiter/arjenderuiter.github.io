@@ -4,8 +4,9 @@ title:  "Recording and resources of my talk 'Beat The Curve' at DevOpsDays Eindh
 date:   2022-10-21
 categories: scaling-up scaling-down goldratt productmanagement 
 ---
-<h2>Recording and resources of my talk 'Beat The Curve' at DevOpsDays Eindhoven</h2>
-  
+This vedeo is a recvording o my talk at DevOpsDays Eindhoven. Below the video you find the list of resources I have used for my talk or I refer to in my talk.
+
+![Beat the curve on YouTube](https://www.youtube.com/watch?v=zcIQfM9cX8E)
 
 * [Slides](https://github.com/arjenderuiter/arjenderuiter.github.io/files/9819695/Copy.for.download.Beat.the.curve.DevOpsDays.Eindhoven.2022.pdf) of my talk Beat The Curve
 * [Summary of Accelerate](https://arjenderuiter.github.io/book/summary/accelerate/2020/07/16/SUMMARY-AND-REVIEW-ACCELERATE-NICOLE-FORSGREN-JEZZ-HUMBLE-GENE-KIM.html) and the 4 metrics: Deploy Frequency, Time to Market, Change Fail Rate, Time to Resolve
@@ -19,4 +20,4 @@ categories: scaling-up scaling-down goldratt productmanagement
 * [Software has diseconomies of scale](https://www.allankellyassociates.co.uk/2015/10/software-has-diseconomies-of-scale-not.html), by Allan Kelly
 
 <br/>
-![Beat the curve](https://user-images.githubusercontent.com/5676977/196038412-da01cee9-2af3-4708-9ef6-8efadd379db5.png)
+![Beat the curve image](https://user-images.githubusercontent.com/5676977/196038412-da01cee9-2af3-4708-9ef6-8efadd379db5.png)
