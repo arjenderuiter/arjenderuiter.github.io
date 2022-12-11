@@ -14,7 +14,7 @@ Below you find the list of resources I refer to in my story 'beat the curve'.
 * [Slides](https://github.com/arjenderuiter/arjenderuiter.github.io/files/9819695/Copy.for.download.Beat.the.curve.DevOpsDays.Eindhoven.2022.pdf) of my talk Beat The Curve
 * [Summary of Accelerate](https://arjenderuiter.github.io/book/summary/accelerate/2020/07/16/SUMMARY-AND-REVIEW-ACCELERATE-NICOLE-FORSGREN-JEZZ-HUMBLE-GENE-KIM.html) and the 4 metrics: Deploy Frequency, Time to Market, Change Fail Rate, Time to Resolve
 * [The long tail of product features](https://arjenderuiter.github.io/product/management/long/tail/leaddev/2021/04/01/THE-LONG-TAIL-OF-PRODUCT-FEATURES.html): a few features are used by many customers, many features are used by a few customers
-* [Research by scaleflow](https://www.linkedin.com/posts/wouterneyndorff_saas-productprocess-productwaste-activity-6986634216834748416-1T93): more than 50% of features is product waste
+* [Research by scaleflow](https://www.linkedin.com/posts/wouterneyndorff_saas-productprocess-productwaste-activity-6986634216834748416-1T93): more than 50% of features is product waste > biggest opportunity for productivity increase lies here (outcome, not output)
 * [Summary of No Rules Rule](https://arjenderuiter.github.io/book/summary/netflix/2020/12/24/NO-RULES-RULES-SUMMARY-KEY-TAKEWAYS-20-MINUTES.html) about removing dependencies by pushing down decision making
 * [The Technical Debt Game](https://github.com/arjenderuiter/techdebtgame) where you have to trade off speed on short term and stability for the long run
 * [Speed at scale in low code environments](https://arjenderuiter.github.io/low/code/linkedin/2020/05/19/LOW-CODE-THROUGH-THE-EYES-OF-TRADITIONAL-PROGRAMMER.html): how to keep it fast at larger scale
