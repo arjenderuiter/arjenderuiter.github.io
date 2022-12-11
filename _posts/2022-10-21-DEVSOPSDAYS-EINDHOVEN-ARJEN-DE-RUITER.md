@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Links to sources I have used for my story 'Beat The Curve'
+title:  "Links to sources I have used for my story 'Beat The Curve'"
 date:   2022-10-21
 categories: scaling-up scaling-down goldratt productmanagement scale
 ---
+
 Below you find the list of resources I refer to in my story 'beat the curve'.
 <br/>
 <br/>
