@@ -20,6 +20,8 @@ categories: scaling-up scaling-down goldratt productmanagement
 * [The Goal, a business graphic novel](https://libris.nl/boek?authortitle=goldratt-eliyahu-zimmerman-dwight/the-goal--9780815385134): an easy version the the classic bestseller
 * [Applying the Universal Scalability Law to organisations](https://blog.acolyer.org/2015/04/29/applying-the-universal-scalability-law-to-organisations), by Adrian Colyer
 * [Software has diseconomies of scale](https://www.allankellyassociates.co.uk/2015/10/software-has-diseconomies-of-scale-not.html), by Allan Kelly
+* [No silver bullit](https://en.wikipedia.org/wiki/No_Silver_Bullet), by late Fred Brooks, about that you should not have too high expectations about raising the black line below
+
 
 <br/>
 ![Beat the curve image](https://user-images.githubusercontent.com/5676977/196038412-da01cee9-2af3-4708-9ef6-8efadd379db5.png)
