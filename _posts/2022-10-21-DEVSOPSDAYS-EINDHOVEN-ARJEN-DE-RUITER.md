@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Recording and resources of my talk 'Beat The Curve' at DevOpsDays Eindhoven"
+title:  "Links to sources I have used for my story 'Beat The Curve'
 date:   2022-10-21
-categories: scaling-up scaling-down goldratt productmanagement 
+categories: scaling-up scaling-down goldratt productmanagement scale
 ---
 Below you find the list of resources I refer to in my story 'beat the curve'.
 <br/>
