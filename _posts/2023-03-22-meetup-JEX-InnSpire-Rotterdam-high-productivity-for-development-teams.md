@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Meetup - High productivity for development teams"
-date:   2023-03-022
+date:   2023-03-22
 categories: scaling-up productivity jex inspire scale development teams
 ---
 
