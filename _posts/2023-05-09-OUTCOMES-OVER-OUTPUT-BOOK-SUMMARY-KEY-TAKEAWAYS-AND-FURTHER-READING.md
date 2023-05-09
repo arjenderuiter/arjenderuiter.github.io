@@ -23,5 +23,5 @@ To measure output you can use the 4 DORA metrics:
 To measure output, use then key takeaways fronm the book that I summarized for you on this 1 pager.
 You can download by clicking on the image.
 
-![summary-outcomes-over-output](https://github.com/arjenderuiter/arjenderuiter.github.io/assets/5676977/5cf45f49-9b12-4bc2-91a3-8da2fcac49c3)
+![![summary-outcomes-over-output](https://github.com/arjenderuiter/arjenderuiter.github.io/assets/5676977/5cf45f49-9b12-4bc2-91a3-8da2fcac49c3)]((https://github.com/arjenderuiter/arjenderuiter.github.io/files/11434903/outcomes-over-output.pdf))
 
