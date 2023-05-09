@@ -14,7 +14,7 @@ An outcome can be for example a change in customor behaviour that you want to ac
 For this you need to deliver features, but just delivering these features is not the goal.
 The features you deliver need to contribute to the outcome you want.
 
-__To measure output__ you can use [the 4 DORA metrics](https://arjenderuiter.github.io/book/summary/accelerate/2020/07/16/SUMMARY-AND-REVIEW-ACCELERATE-NICOLE-FORSGREN-JEZZ-HUMBLE-GENE-KIM.html):
+__To measure output__, you can use [the 4 DORA metrics](https://arjenderuiter.github.io/book/summary/accelerate/2020/07/16/SUMMARY-AND-REVIEW-ACCELERATE-NICOLE-FORSGREN-JEZZ-HUMBLE-GENE-KIM.html):
 - lead time for change (speed)
 - deploy frequency (speed)
 - change fail rate (stability)
