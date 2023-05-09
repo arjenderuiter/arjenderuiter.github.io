@@ -5,7 +5,7 @@ date:   2023-05-09
 categories: productmanagement product outcomes output productivity agile engineering
 ---
 Recently I got a book from my colleague Noha Shafik. It is 'outcomes over output' by Joshua Seiden.
-The message is very much about what I talk and write about often:
+The message is very much about what [I talk and write about](https://youtu.be/zcIQfM9cX8E?t=958) often:
 - high productivity in terms of _output_ is important to deliver fast
 - however, going fast in the wrong direction makes no sense
 - hence, _outcomes_ are what it is all about for an organisation
