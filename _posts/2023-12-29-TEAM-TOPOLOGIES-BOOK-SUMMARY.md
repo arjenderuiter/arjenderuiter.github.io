@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Team Topologies – A summary of the book on organizing teams for fast flow"
+title:  "Team Topologies: book summary on organizing teams for fast flow"
 date:   2023-12-29
 categories: book summary netflix
 ---
