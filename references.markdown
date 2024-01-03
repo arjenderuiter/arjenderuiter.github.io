@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reference stories
+title: Success stories
 permalink: /stories/
 ---
 
