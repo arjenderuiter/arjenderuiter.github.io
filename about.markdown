@@ -4,11 +4,11 @@ title: About me
 permalink: /about/
 ---
 
-I am interim manager in software development and operations. I help organisations to improve software delivery performance. 
-Besides, I do consulting work, provide training and deliver inspirational talks, both in-company and at public events. 
+I am manager in software development and operations. I help organisations to improve software delivery performance. 
+Besides, I do consulting work and deliver inspirational talks, both in-company and at public events. 
 I also host the [Engineering Leadership NL meetup](https://www.meetup.com/engineeringleadershipnl/).
 
-Today I work as Head of Software Delivery at [Essent](https://www.essent.nl). Before that I was engineering manager FinTech at [bol.com](https://www.bol.com). In recent years I was VP Engineering at [Sendcloud](https://www.sendcloud.com), Head of Product & Engineering at [Maykers](https://www.maykers.com), part of [Kramp](https://www.kramp.com) and CTO at [Coosto](https://www.coosto.com).
+Today I work as Director of Engineering at [Essent](https://www.essent.nl). Before that I was engineering manager FinTech at [bol.com](https://www.bol.com). In recent years I was VP Engineering at [Sendcloud](https://www.sendcloud.com), Head of Product & Engineering at [Maykers](https://www.maykers.com), part of [Kramp](https://www.kramp.com) and CTO at [Coosto](https://www.coosto.com).
 
 In section [Reference stories](/stories/), you can read more about my customers and accomplishments.
 On [my LinkedIn profile](https://www.linkedin.com/in/arjenderuiter/) you can find my work experience as well.
