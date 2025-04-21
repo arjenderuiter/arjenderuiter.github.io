@@ -5,8 +5,6 @@ date:   2025-03-27
 categories: conference summary engineering culture autonomy flow value product management
 ---
 
-# Reflections on FastFlowConf 2025: Aligning Autonomy, Flow, and Value for Better Engineering
-
 Earlier this month, I had the pleasure of attending FastFlowConf 2025 in Den Bosch, The Netherlands. It was a day packed with compelling talks, fresh perspectives, and meaningful conversations around building better software—faster, and with more purpose.
 
 As an engineering director at Essent, I'm constantly seeking ways to improve how we build and deliver value. Among the many excellent sessions, three talks stood out to me for their direct relevance to the challenges and opportunities we face in modern product engineering. Each talk addressed a different angle, but together they formed a powerful theme around **autonomy, flow, and delivering true value**.
