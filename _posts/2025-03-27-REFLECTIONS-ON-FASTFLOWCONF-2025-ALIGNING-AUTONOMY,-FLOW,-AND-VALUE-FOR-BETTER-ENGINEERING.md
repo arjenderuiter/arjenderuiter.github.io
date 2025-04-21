@@ -11,7 +11,6 @@ Earlier this month, I had the pleasure of attending **FastFlowConf 2025** in Den
 
 As an engineer at **Essent**, I'm constantly seeking ways to improve how we build and deliver value. Among the many excellent sessions, three talks stood out to me for their direct relevance to the challenges and opportunities we face in modern product engineering. Each talk addressed a different angle, but together they formed a powerful theme around **autonomy, flow, and delivering true value**.
 
----
 
 ## 1. From Inside Out to Outside-In – *Rich Allen*
 
@@ -23,7 +22,6 @@ He introduced **User Needs Mapping**, a practical framework that helps teams unc
 
 This talk was a powerful reminder that internal efficiency means little if it doesn’t lead to external impact. The key is focusing on what users care about and structuring teams and priorities around that.
 
----
 
 ## 2. How Flow Works – *James Lewis (Thoughtworks)*
 
@@ -35,7 +33,6 @@ One highlight for me was the insight that **flow isn’t just a buzzword**—it�
 
 His talk reinforced something we often sense intuitively: **when teams can reduce friction and work in smaller, autonomous units, value flows faster and more predictably**.
 
----
 
 ## 3. Autonomy, Is That What We Really Want? – *Evelyn Van Kelle & Kenny Baas-Schwegler*
 
@@ -47,7 +44,6 @@ Through examples from various levels—code, team, organization—they showed ho
 
 I appreciated how this talk reframed autonomy not as a binary, but as a tension to manage. In the end, **real autonomy flourishes within a shared context**, not in a vacuum.
 
----
 
 ## The Bigger Picture: Autonomy, Flow, and Value
 
@@ -62,6 +58,3 @@ FastFlowConf 2025 left me energized and inspired, not just with tools and theory
 
 Here’s to building better products—and better ways of working—together.
 
----
-
-Let me know if you’d like this tailored further for LinkedIn or internal comms, or turned into a shorter newsletter-style post!
