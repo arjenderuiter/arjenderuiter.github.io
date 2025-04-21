@@ -7,12 +7,12 @@ categories: conference summary engineering culture autonomy flow value product m
 
 # Reflections on FastFlowConf 2025: Aligning Autonomy, Flow, and Value for Better Engineering
 
-Earlier this month, I had the pleasure of attending **FastFlowConf 2025** in Den Bosch, The Netherlands. It was a day packed with compelling talks, fresh perspectives, and meaningful conversations around building better software—faster, and with more purpose.
+Earlier this month, I had the pleasure of attending FastFlowConf 2025 in Den Bosch, The Netherlands. It was a day packed with compelling talks, fresh perspectives, and meaningful conversations around building better software—faster, and with more purpose.
 
-As an engineer at **Essent**, I'm constantly seeking ways to improve how we build and deliver value. Among the many excellent sessions, three talks stood out to me for their direct relevance to the challenges and opportunities we face in modern product engineering. Each talk addressed a different angle, but together they formed a powerful theme around **autonomy, flow, and delivering true value**.
+As an engineering director at Essent, I'm constantly seeking ways to improve how we build and deliver value. Among the many excellent sessions, three talks stood out to me for their direct relevance to the challenges and opportunities we face in modern product engineering. Each talk addressed a different angle, but together they formed a powerful theme around **autonomy, flow, and delivering true value**.
 
 
-<h3>1. From Inside Out to Outside-In – Rich Allen</h3>
+<h3>From Inside Out to Outside-In – Rich Allen</h3>
 
 🎥 [Watch the talk](https://www.youtube.com/watch?v=UYbTZzvk_C0)
 
@@ -23,7 +23,7 @@ He introduced **User Needs Mapping**, a practical framework that helps teams unc
 This talk was a powerful reminder that internal efficiency means little if it doesn’t lead to external impact. The key is focusing on what users care about and structuring teams and priorities around that.
 
 
-<h3>2. How Flow Works – James Lewis (Thoughtworks)</h3>
+<h3>How Flow Works – James Lewis (Thoughtworks)</h3>
 
 🎥 [Watch the talk](https://www.youtube.com/watch?v=61goa2p0JkM)
 
@@ -34,7 +34,7 @@ One highlight for me was the insight that **flow isn’t just a buzzword**—it�
 His talk reinforced something we often sense intuitively: **when teams can reduce friction and work in smaller, autonomous units, value flows faster and more predictably**.
 
 
-<h3>3. Autonomy, Is That What We Really Want? – Evelyn Van Kelle & Kenny Baas-Schwegler</h3>
+<h3>Autonomy, Is That What We Really Want? – Evelyn Van Kelle & Kenny Baas-Schwegler</h3>
 
 🎥 [Watch the talk](https://www.youtube.com/watch?v=Q9-LMmOKZaM)
 
