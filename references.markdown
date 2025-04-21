@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Success stories
+title: References
 permalink: /stories/
 ---
 
-As of June 2023 I am Head of Software Delivery at Essent. The software teams deliver and run solutions that help customers in the energy transition. Besides we make a tech transformation from low-code solutions to custom built services on a serverless platform. 
-I am member of the IT Leadership Team together with the CIO, the head of architecture and the head of platform. My teams consists of 5 engineering managers. Each of them manages a product domain with 6 to 8 teams, adding up to about 240 team members in total. 
+As of June 2023 I work at Essent, one of the largests energy companies in The Netherlands. Currently I am director of engineering,. Our 50 teams deliver and run solutions that help customers in the energy transition. The teams are organized in 7 journey domains and a platform engineering domain. 
 
 ![mijn-essent-overzicht-laptop](https://github.com/arjenderuiter/arjenderuiter.github.io/assets/5676977/57344b59-c2e5-407d-ad82-91c9cd531120)  
 <br>
