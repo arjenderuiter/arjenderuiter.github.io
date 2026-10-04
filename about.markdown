@@ -1,3 +1,5 @@
+<!-- dit weghalen als je deze tab weer wilt tonen
+
 ---
 layout: page
 title: About me
@@ -15,4 +17,4 @@ On [my LinkedIn profile](https://www.linkedin.com/in/arjenderuiter/) you can fin
 
 ![me_talking_at_event_incentro](https://user-images.githubusercontent.com/5676977/134803938-0db02e87-1b57-41c0-8734-681d36375921.jpg)
 
-
+-->
