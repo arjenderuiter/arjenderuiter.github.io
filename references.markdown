@@ -1,3 +1,5 @@
+<!-- dit deel weghalen als je deze tab weer wilt tonen
+
 ---
 layout: page
 title: References
@@ -45,3 +47,5 @@ I worked at bol.com as software engineering manager, introducing the personalise
 At Coosto I was CTO. I helped them scale by moving to a loosely coupled architecture, by developing the teams and by building a scalable platform.
 
 ![coosto_site](https://user-images.githubusercontent.com/5676977/135763995-7a3291cc-02d6-4b6b-be11-f4cb2661ee03.png)
+
+-->
