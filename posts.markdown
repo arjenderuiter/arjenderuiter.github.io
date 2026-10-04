@@ -1,3 +1,5 @@
+<!-- dit weghalen als je deze tab weer wilt tonen
+
 ---
 layout: page
 title: All posts
@@ -29,3 +31,5 @@ permalink: /posts/
     </ul>
 
   {%- endif -%}
+
+-->
